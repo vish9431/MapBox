@@ -28,7 +28,10 @@
                 app:mapbox_cameraTargetLng="-74.0060"
                 app:mapbox_cameraZoom="3.5"
                 app:mapbox_cameraPitch="0.0"
-                app:mapbox_cameraBearing="0.0" />
+                app:mapbox_cameraBearing="0.0"
+                app:mapbox_locationComponentEnabled="true"
+                app:mapbox_locationComponentPuckBearing="heading"/>
+
 
         </FrameLayout>
 
