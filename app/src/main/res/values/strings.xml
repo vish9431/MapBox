@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MapBox</string>
-    <string name="mapbox_access_token">YOUR_MAPBOX_ACCESS_TOKEN</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
     <string-array name="map_types_array">
         <item>Streets</item>
         <item>Satellite</item>
